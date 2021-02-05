@@ -37,9 +37,9 @@ Some examples of VisRepNet Diagrams:
 </details>             
 <br/>
 
-[Learn how to read VisRepNet Diagrams](## learn how to read visrepnet diagrams)
-[Learn how to create VisRepNet Diagrams](## learn how to create visrepnet diagrams)
-[Help design and innovate the next VisRepNet Update](## help design and innovate the next visrepnet update) 
+[Learn how to read VisRepNet Diagrams](##-learn-how-to-read-visrepnet-diagrams)
+[Learn how to create VisRepNet Diagrams](##-learn-how-to-create-visrepnet-diagrams)
+[Help design and innovate the next VisRepNet Update](##-help-design-and-innovate-the-next-visrepnet-update) 
 
 
 ## Learn how to read VisRepNet Diagrams
