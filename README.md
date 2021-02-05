@@ -23,14 +23,12 @@
 	## Help design and innovate the next VisRepNet Update. 
 </p>
 </details>
-"---"
-***
-___
+
 <br/>
 <br/>
 
 
-Some examples of VisRepNet v2.0 Diagrams:
+Some **examples** of VisRepNet v2.0 Diagrams:
 <details><summary>Resnet- 34 layers</summary>
 <p>
 	<img src="https://github.com/joshclancy/VisRepNet/blob/main/png_examples/Resnet.png"
@@ -59,6 +57,4 @@ Some examples of VisRepNet v2.0 Diagrams:
 </p>
 </details>             
 <br/>
-- - -
-"***"
-___
+
