@@ -1,4 +1,3 @@
-# VisRepNet
 <p align="center">
   <img src="https://github.com/joshclancy/VisRepNet/blob/main/logo2.png"
 	title="VisRepNet" width="500"/>
