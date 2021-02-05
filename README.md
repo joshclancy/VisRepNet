@@ -5,7 +5,7 @@
 
 **VisRepNet** is a symbolic language for describing and visualizing neural network architectures and their related training environments. The language is specialized towards visualizing  complex networks at a high level of detail as to be presented on paper. We are continually refining this language and welcome suggestions for change. 
 <br/>
-
+<br/>
 
 Some examples of VisRepNet Diagrams:
 <details><summary>Resnet- 34 layers</summary>
@@ -35,3 +35,5 @@ Some examples of VisRepNet Diagrams:
 	title="SimCLR"/>
 </p>
 </details>             
+<br/>
+
