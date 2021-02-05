@@ -24,6 +24,8 @@
 </p>
 </details>
 ------
+***
+___
 <br/>
 <br/>
 
@@ -58,4 +60,5 @@ Some examples of VisRepNet v2.0 Diagrams:
 </details>             
 <br/>
 -----
-
+***
+___
