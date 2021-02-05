@@ -8,9 +8,10 @@
 Some examples of VisRepNet Diagrams:
 <details><summary>Resnet- 34 layers</summary>
 <p>
-	![Image of ResNet](https://github.com/joshclancy/VisRepNet/blob/main/png_examples/Resnet.png)
 	<img src="https://github.com/joshclancy/VisRepNet/blob/main/png_examples/Resnet.png"
 	title="Resnet"/>
+	<img src="https://github.com/joshclancy/VisRepNet/blob/main/png_examples/Resnet300.png"
+	title="Resnet300"/>
 </p>
 </details>
 
