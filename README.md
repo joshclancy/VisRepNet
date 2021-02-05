@@ -1,6 +1,6 @@
 # VisRepNet
 
-![Image of BERT](https://github.com/joshclancy/VisRepNet/blob/main/logo.png)
+![Image of BERT](https://github.com/joshclancy/VisRepNet/blob/main/logo2.png)
 
 
 VisRepNet is a symbolic language for describing and visualizing neural network architectures and their related training environments. 
