@@ -23,7 +23,7 @@
 	## Help design and innovate the next VisRepNet Update. 
 </p>
 </details>
-------
+"---"
 ***
 ___
 <br/>
@@ -59,6 +59,6 @@ Some examples of VisRepNet v2.0 Diagrams:
 </p>
 </details>             
 <br/>
------
-***
+- - -
+"***"
 ___
