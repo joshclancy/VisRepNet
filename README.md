@@ -3,7 +3,7 @@
 	title="VisRepNet" width="500"/>
 </p>
 
-**VisRepNet** is a symbolic language for describing and visualizing neural network architectures and their related training environments. The language is specialized towards visualizing  complex networks at a high level of detail as to be presented on paper. We are continually refining this language and welcome suggestions for change. 
+**VisRepNet** is a symbolic language for describing and visualizing neural network architectures and their related training environments. The language is **specialized towards visualizing complex networks** at a high level of detail as to be presented on paper. We are continually refining this language and welcome suggestions for change. 
 <br/>
 <br/>
 
@@ -37,3 +37,11 @@ Some examples of VisRepNet Diagrams:
 </details>             
 <br/>
 
+[Learn how to read VisRepNet Diagrams]{## Learn how to read VisRepNet Diagrams}
+[Learn how to create VisRepNet Diagrams]{## Learn how to create VisRepNet Diagrams}
+[Help design and innovate the next VisRepNet Update]{## Help design and innovate the next VisRepNet Update} 
+
+
+## Learn how to read VisRepNet Diagrams
+## Learn how to create VisRepNet Diagrams
+## Help design and innovate the next VisRepNet Update. 
