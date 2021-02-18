@@ -7,23 +7,20 @@
 <br/>
 <br/>
 <details><summary>Learn how to read VisRepNet Diagrams</summary>
-<p>
-	
-1. Symbols 
-2. Organization
 
-<h3> Symbols </h3>
+
+<h2> The Symbols within VisRepNet</h2>
 VisRepNet aims to describe **all** neural networks and accurately visualize the differences between them. In striving towards this goal, we have created systems of visualization to represent as many niche cases as possible. This has resulted in general representational systems, but perhaps not obvious ones.  
 <h3> Convolutions </h3>
 A good example of this, is how VisRepNet represents a **convolutional layer**:
 <p align="center">
   <img src="https://github.com/joshclancy/VisRepNet/blob/main/png_readme/convolutions.png"
-	title="Convolutions"/>
+	title="Convolutions"  width="1000"/>
 </p>
 This may seem to be overly complicated. However, this representational system allows us to represent various niche types of convolutions as well. Below we show, 1. A dilated convolution, 2. A custom convolution found in Axial Attention. 3. A convolution that allows for parallel processing along the group dimension. And 4. A temporal convolution. 
 <p align="center">
   <img src="https://github.com/joshclancy/VisRepNet/blob/main/png_readme/convExamples.png"
-	title="ConvolutionExamples"/>
+	title="ConvolutionExamples"  width="1000"/>
 </p>
 
 <h3> Tensors </h3>
@@ -57,7 +54,7 @@ Our other symbols tend to be intuitive.
 
 When we need to represent a function for which we have no symbol, we use the symbol closest to the new function with a label (e.g., use down sample symbol to represent max pool) or we use our standard stand-in symbol with a label. 
 
-<h2> Organization </h2>
+<h2> The Organization of VisRepNet </h2>
 We organize VisRepNet diagrams in procedural abstraction levels. There are three main levels. 
 1.	Update Environment Level
 2.	Network Architecture Level 
@@ -95,7 +92,6 @@ At the lower function level, we get detailed descriptions of the functions withi
 	title="TensorContext" width="1000"/>
 </p>
 
-</p>
 </details>
 
 <details><summary>Learn how to create VisRepNet Diagrams</summary>
