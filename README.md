@@ -10,14 +10,19 @@
 
 
 <h2> The Symbols within VisRepNet</h2>
-VisRepNet aims to describe **all** neural networks and accurately visualize the differences between them. In striving towards this goal, we have created systems of visualization to represent as many niche cases as possible. This has resulted in general representational systems, but perhaps not obvious ones.  
+VisRepNet aims to describe <b>all</b> neural networks and accurately visualize the differences between them. In striving towards this goal, we have created systems of visualization to represent as many niche cases as possible. This has resulted in <b>general representational systems</b>, but perhaps not obvious ones.  
 <h3> Convolutions </h3>
-A good example of this, is how VisRepNet represents a **convolutional layer**:
+A good example of this, is how VisRepNet represents a <b>convolutional layer</b>:</br></br>
 <p align="center">
   <img src="https://github.com/joshclancy/VisRepNet/blob/main/png_readme/convolutions.png"
-	title="Convolutions"  width="1000"/>
+	title="Convolutions"  width="800"/>
 </p>
-This may seem to be overly complicated. However, this representational system allows us to represent various niche types of convolutions as well. Below we show, 1. A dilated convolution, 2. A custom convolution found in Axial Attention. 3. A convolution that allows for parallel processing along the group dimension. And 4. A temporal convolution. 
+This may seem to be overly complicated. However, this representational system allows us to represent various niche types of convolutions as well. For example, below we show: </br></br>
+1. A <b>dilated</b> convolution </br>
+2. A custom convolution found in <b>Axial Attention.</b> </br>
+3. A convolution that allows for <b>parallel processing along the group dimension.</b> </br>
+4. A <b>temporal</b> convolution. </br></br>
+
 <p align="center">
   <img src="https://github.com/joshclancy/VisRepNet/blob/main/png_readme/convExamples.png"
 	title="ConvolutionExamples"  width="1000"/>
@@ -37,7 +42,7 @@ We employ another system of representation to visually describe a wide range of 
 </p>
 
 <h3> Other Neural Layers </h3>
-Having a good system to represent and visualize tensors allows us to use those tensors to provide context to neural layers. 
+Having a good system to represent and visualize tensors allows us to use those tensors to provide <b>context</b> to neural layers. 
 
 <p align="center">
   <img src="https://github.com/joshclancy/VisRepNet/blob/main/png_readme/contextFromTensors.png"
@@ -49,16 +54,17 @@ Our other symbols tend to be intuitive.
 
 <p align="center">
   <img src="https://github.com/joshclancy/VisRepNet/blob/main/png_readme/otherFunctions2.png"
-	title="OtherFunctions" width="1000"/>
+	title="OtherFunctions" width="800"/>
 </p>
 
-When we need to represent a function for which we have no symbol, we use the symbol closest to the new function with a label (e.g., use down sample symbol to represent max pool) or we use our standard stand-in symbol with a label. 
+When we need to represent a function for which we have <b>no symbol</b>, we use the symbol closest to the new function with a label (e.g., use the downsample symbol to represent max pool) or we use our standard stand-in symbol with a label. 
 
 <h2> The Organization of VisRepNet </h2>
-We organize VisRepNet diagrams in procedural abstraction levels. There are three main levels. 
-1.	Update Environment Level
-2.	Network Architecture Level 
-3.	Lower Function Level
+We organize VisRepNet diagrams in <b>procedural abstraction</b> levels. There are three main levels. </br></br>
+
+1.	Update Environment Level</br>
+3.	Network Architecture Level </br>
+4.	Lower Function Level </br>
 
 <h3> Update Environment Level </h3>
 
@@ -69,7 +75,7 @@ In the Update Environment there is a system diagram that describes how the netwo
 	title="TensorContext" width="1000"/>
 </p>
 
-The system diagram visualization is organized within the INOMU framework. INOMU stands for Input, Network, Output, Measure and Update. Each function is placed within its appropriate section to create a predictable and intuitive system diagram. 
+The system diagram visualization is organized within the INOMU framework. INOMU stands for <b>Input, Network, Output, Measure and Update</b>. Each function is placed within its appropriate section to create a predictable and intuitive system diagram. 
 
 Based on our user studies, deep learning practitioners want a lot of information about the update environment. VisRepNet then provides a written area to accommodate for this. VisRepNet expect a description of the preprocessing, input/s, output/s, loss function, and update hyperparameters. On top of this we expect a general description of the idea behind the network (or area of improvement, if the diagram is accompanying an academic paper). 
 
