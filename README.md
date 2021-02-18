@@ -54,7 +54,7 @@ Our other symbols tend to be intuitive.
 
 <p align="center">
   <img src="https://github.com/joshclancy/VisRepNet/blob/main/png_readme/otherFunctions2.png"
-	title="OtherFunctions" width="800"/>
+	title="OtherFunctions" width="600"/>
 </p>
 
 When we need to represent a function for which we have <b>no symbol</b>, we use the symbol closest to the new function with a label (e.g., use the downsample symbol to represent max pool) or we use our standard stand-in symbol with a label. 
