@@ -30,12 +30,15 @@ This may seem to be overly complicated. However, this representational system al
 
 <h3> Tensors </h3>
 
-We employ another system of representation to visually describe a wide range of tensors. Simple tensors are represented simply and intuitively. However, we also provide a method of representing more complex tensors. This is done via a combinatorial system as shown below.
+We employ another system of representation to visually describe a wide range of tensors. Simple tensors are represented simply and intuitively. However, we also provide a method of representing more complex tensors. This is done as shown below.
 
 <p align="center">
   <img src="https://github.com/joshclancy/VisRepNet/blob/main/png_readme/tensorSymbolExplain.png"
 	title="TensorSymbolExplain" width="1000"/>
 </p>
+
+We can mix and match channel, grouping, spatial, and temporal dimensions to produce a wide range of possible tensors. Below are some further examples:
+
 <p align="center">
   <img src="https://github.com/joshclancy/VisRepNet/blob/main/png_readme/tensorcombotable.png"
 	title="TensorComboTable" width="1000"/>
@@ -102,13 +105,13 @@ At the lower function level, we get detailed descriptions of the functions withi
 
 <details><summary>Learn how to create VisRepNet Diagrams</summary>
 <p>
-	## Learn how to create VisRepNet Diagrams
+	To Do
 </p>
 </details>
 
 <details><summary>Help design and innovate the next VisRepNet Update. </summary>
 <p>
-	## Help design and innovate the next VisRepNet Update. 
+	To Do
 </p>
 </details>
 
