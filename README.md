@@ -106,12 +106,14 @@ At the lower function level, we get detailed descriptions of the functions withi
 <details><summary>How to create VisRepNet Diagrams</summary>
 <h2> Resources </h2>
 <p>
-	VisRepNet Diagrams are created in <b>draw.io</b>, a free open source diagramming tool. You can use it in the <a href="https://app.diagrams.net/"> browser</a> or you can download a <a href="https://www.diagrams.net/index.html"> desktop version </a>  
+	VisRepNet Diagrams are created in <b>draw.io</b>, a free open source diagramming tool. You can use it in the <a href="https://app.diagrams.net/"> browser</a> or you can download a <a href="https://www.diagrams.net/index.html"> desktop version </a>  <br/>
 	
-To get you started, we provide:
-	1. a template draw.io document (See the <b>VisRepNet_templates.drawio</b> document in the github repo for latest version)
-	2. an example draw.io document (See the <b>VisRepNet_examples.drawio</b> document in the github repo for the latest version)
-	3. a library of signs to create VisRepNet diagrams. (See the <b>signset.xml</b> document in the Github repo for latest version)
+To get you started, we provide: <br/>
+<ol>
+	<li> A template draw.io document (See the <b>VisRepNet_templates.drawio</b> document in the github repo for latest version) </li>
+	<li> An example draw.io document (See the <b>VisRepNet_examples.drawio</b> document in the github repo for the latest version) </li>
+	<li> A library of signs to create VisRepNet diagrams. (See the <b>signset.xml</b> document in the Github repo for latest version) </li>
+</ol>
 </p>
 
 </details>
