@@ -6,7 +6,7 @@
 **VisRepNet** is a symbolic language for describing and visualizing neural network architectures and their related training environments. The language is **specialized towards visualizing complex networks** at a high level of detail as to be presented on paper. We are continually refining this language and welcome suggestions for change. 
 <br/>
 <br/>
-<details><summary>Learn how to read VisRepNet Diagrams</summary>
+<details><summary>How to read VisRepNet Diagrams</summary>
 
 
 <h2> The Symbols within VisRepNet</h2>
@@ -103,9 +103,15 @@ At the lower function level, we get detailed descriptions of the functions withi
 
 </details>
 
-<details><summary>Learn how to create VisRepNet Diagrams</summary>
+<details><summary>How to create VisRepNet Diagrams</summary>
+<h2> Resources </h2>
 <p>
-	To Do
+	VisRepNet Diagrams are created in draw.io, a free open source diagramming tool. You can use it in the [browser](https://app.diagrams.net/) or you can download a [desktop version](https://www.diagrams.net/index.html)  
+	
+	To get you started, we provide:
+		1. a template draw.io document (See the template.drawio document in the github repo for latest version)
+		2. an example draw.io document (See the example.drawio document in the github repo for the latest version)
+		3. a library of signs to create VisRepNet diagrams. (See the signset.xml document in the Github repo for latest version)
 </p>
 </details>
 
